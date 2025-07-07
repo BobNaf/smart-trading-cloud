@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables / credentials
+.env
+*.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Streamlit logs
+.streamlit/
+
+# IDE/project-specific files
+.vscode/
+.idea/
