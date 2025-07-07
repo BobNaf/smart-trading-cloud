@@ -1,5 +1,8 @@
-streamlit
-yfinance
-alpaca-trade-api
-matplotlib
+streamlit==1.35.0
 pandas
+matplotlib
+alpaca-trade-api
+python-dotenv
+requests
+urllib3<2.0
+six
