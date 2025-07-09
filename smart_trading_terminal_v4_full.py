@@ -1,5 +1,6 @@
 # --- BEGIN SMART TRADING TERMINAL V4 FULL ---
-
+import os
+os.environ["STREAMLIT_SERVER_PORT"] = "10000"
 import streamlit as st
 import pandas as pd
 import yfinance as yf
